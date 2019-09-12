@@ -1,15 +1,12 @@
 # Resume
-Just a readme with my resume. Keeping it simple.
-
-# Intro
 Hi! I'm Katelyn Casperson!
 I'm passionate about problem solving and LOVE finding the right technology to solve each problem. Back-end engineering is my jam, but I'm always open to new challenges. I'm currently in a Big Data capstone class and I would love to begin my career in a software engineering position working with Machine Learning concepts and tackling Big data problems.
 
-# Education
+## Education
 B.S. in Computer Science
 Brigham Young University, April 2020
 
-# Experience
+## Experience
 **Software Engineer Intern** // 
 Goldman Sachs, Salt Lake City //
 May - Aug 2019
@@ -55,7 +52,7 @@ Developed the pre-med track physics course by co-authoring a workbook used by 30
 Primary instructor for two sections of Physics 105.
 
 
-# Service
+## Service
 **Women in Computer Science Club President**
 
 I create inclusive mentoring and career-advancing activities for members of WiCS at BYU. I have focused my tenure as president to increase members’ involvement in Code Together, our premier community-building event we hold weekly. During Code Together, students eat delicious snacks, work on code in a comfortable environment, and give and receive mentorship from club leaders, peers, and software engineers from local companies such as Qualtrics and Lucid. To increase attendance by 40%, I’ve networked with faculty to put it on their class calendars, involved company sponsorship of our snacks, and interviewed and brought on 12 more club officers to help run the business of the club.
